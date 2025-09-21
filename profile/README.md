@@ -20,7 +20,7 @@ The tool scans your Time Machine backups and presents the data in an easy-to-nav
 
 BackupLoupe is fully compatible with all modern Macs, including those with Intel and Apple Silicon chips (M1, M2, M3). It runs smoothly on macOS Ventura, Sonoma, and earlier versions. Whether you are a professional user managing multiple backups or a home user looking to optimize storage, BackupLoupe offers a reliable and efficient solution.
 
-![BackupLoupe Screenshot](https://static.macupdate.com/screenshots/299185/m/backuploupe-screenshot.png?v=1669059108)
+![BackupLoupe Screenshot](https://images.dwncdn.net/images/t_app-cover-m,f_auto/p/11a5ae7b-3d8d-40e1-a569-81d9bdaee2ae/1802813191/2242_4-10914383-7070b4747ab60a0f8bea537e6f52e4a902cc_1screenshot_browser.png)
 
 ---
 
